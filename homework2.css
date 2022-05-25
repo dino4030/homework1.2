@@ -1,0 +1,42 @@
+.vertical {
+    border-left: 2px solid #CECECE;
+    height: 100%;
+    position:absolute;
+    left: 25%;
+}
+html{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 250px;
+    height: 250px;
+    right: 500px;
+    position: absolute;
+    border-radius: 150px;
+    border: 2px solid #CECECE;
+}
+
+h1{
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+
+.info{
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+
+#description{
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+
+#color{
+    color: blue;
+}
